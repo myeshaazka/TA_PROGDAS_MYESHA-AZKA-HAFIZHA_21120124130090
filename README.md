@@ -1,5 +1,7 @@
 # Sistem Pemesanan Tiket Konser dengan Seating Number 
 
+## Myesha Azka Hafizha_21120124130090
+
 ## Deskripsi 
 Program ini adalah sistem pemesenan tiket konser yang memungkinkan pengguna untuk:
 1. Memilih kategori kursi (Seating Plan)
